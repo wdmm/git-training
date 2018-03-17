@@ -1,3 +1,5 @@
 # GIT Training
 
-Hello
+Hello People !
+commit1
+commit2
