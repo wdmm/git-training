@@ -1,5 +1,3 @@
 # GIT Training
-
-Hello People !
-commit1
-commit2
+*### Hello People!*
+![alt text](https://getsharex.com/img/ShareX_Logo_32.png "Mod. Vadim M.")
